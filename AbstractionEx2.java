@@ -1,0 +1,1 @@
+class AbstractionEx2
